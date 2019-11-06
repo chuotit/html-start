@@ -5,4 +5,5 @@ jQuery(document).ready(function ($) {
 	$("#close-menu").click(function () {
 		$('body').removeClass('mnopen');
 	})
+	// jQuery('.navbar-item').click(function(){jQuery('.sub-menu').toggleClass('show');})
 });
